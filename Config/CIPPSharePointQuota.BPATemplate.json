@@ -1,0 +1,17 @@
+{
+  "name": "CIPP SharePoint Quota",
+  "style": "Table",
+  "Fields": [
+    {
+      "name": "SharePoint Quota",
+      "UseExistingInfo": true,
+      "FrontendFields": [
+        {
+          "name": "SharePointQuota",
+          "value": "SharepointQuota"
+        },
+        {}
+      ]
+    }
+  ]
+}
